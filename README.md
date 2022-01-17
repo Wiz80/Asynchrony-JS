@@ -1,5 +1,4 @@
 # Asynchrony-JS
-[========]
 
 This is a project to work with asynchrony and get the main differences, advantages and disadvantages of callbacks, promises and async-await functions in JavaScript.
 
